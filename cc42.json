@@ -2,25 +2,25 @@
   "seo": {
     "tr": {
       "title": "Şara Nehir İpekçi - Yeni Medya & Grafik Tasarım Portfolyosu",
-      "description": "Yeni medya ve iletişim öğrencisi Şara Nehir İpekçi'nin profesyonel portfolyosu. Grafik tasarım, marka kimliği, dijital medya projeleri ve 'KarGo' marka projesi.",
-      "keywords": "Şara Nehir İpekçi, yeni medya ve iletişim, grafik tasarım öğrencisi, portfolyo tasarımı, görsel iletişim, dijital medya projeleri, sosyal medya yönetimi, KarGo marka projesi, Photoshop, Illustrator, Kültür Üniversitesi"
+      "description": "Yeni medya ve iletişim öğrencisi Şara Nehir İpekçi'nin profesyonel portfolyosu. Grafik tasarım, marka kimliği, dijital içerik üretimi ve Adobe Creative Suite projeleri.",
+      "keywords": "Şara Nehir İpekçi, yeni medya ve iletişim, grafik tasarımcı, dijital içerik üreticisi, portfolyo, Adobe Photoshop, Illustrator, After Effects, Premiere Pro, marka kimliği, Kültür Üniversitesi"
     },
     "en": {
       "title": "Şara Nehir İpekçi - New Media & Graphic Design Portfolio",
-      "description": "Professional portfolio of Şara Nehir İpekçi, new media and communication student. Graphic design, brand identity, digital media projects, and 'KarGo' brand project.",
-      "keywords": "Şara Nehir İpekçi, new media and communication student, graphic designer portfolio, visual communication projects, branding and identity design, digital media creativity, social media management, Photoshop & Illustrator works, KarGo brand identity project, design for social responsibility"
+      "description": "Professional portfolio of Şara Nehir İpekçi, new media and communication student. Graphic design, brand identity, digital content creation, and Adobe Creative Suite projects.",
+      "keywords": "Şara Nehir İpekçi, new media and communication, graphic designer, digital content creator, portfolio, Adobe Photoshop, Illustrator, After Effects, Premiere Pro, brand identity, Kültür University"
     }
   },
   "profil": {
     "tr": {
       "isim": "Şara Nehir İpekçi",
-      "unvan": "Yeni Medya ve İletişim Öğrencisi",
-      "bio": "Kültür Üniversitesi'nde Yeni Medya ve İletişim okuyan, grafik tasarıma tutkulu bir öğrenciyim. 'KarGo' bitirme projem başta olmak üzere, marka kimliği ve dijital hikaye anlatımı üzerine çalışıyorum."
+      "unvan": "Yeni Medya ve İletişim Öğrencisi | Grafik Tasarımcı & Dijital İçerik Üreticisi",
+      "bio": "Merhaba! Ben Şara Nehir İpekçi. İstanbul Kültür Üniversitesi Yeni Medya ve İletişim bölümü 4. sınıf öğrencisiyim. Adobe Illustrator, Photoshop, After Effects ve Premiere Pro gibi programlarla çalışarak hem görsel hem de işitsel anlatım becerilerimi güçlendiriyorum."
     },
     "en": {
       "isim": "Şara Nehir İpekçi",
-      "unvan": "New Media and Communication Student",
-      "bio": "I am a student at Kültür University studying New Media and Communication, passionate about graphic design. I focus on brand identity and digital storytelling, including my 'KarGo' thesis project."
+      "unvan": "New Media & Communication Student | Graphic Designer & Digital Content Creator",
+      "bio": "Hello! I'm Şara Nehir İpekçi, a 4th-year student in the New Media and Communication department at İstanbul Kültür University. I am strengthening my visual and audio storytelling skills by working with programs like Adobe Illustrator, Photoshop, After Effects, and Premiere Pro."
     }
   },
   "nav": {
@@ -42,11 +42,11 @@
   "hakkimda": {
     "tr": {
       "baslik": "Hakkımda",
-      "icerik": "Görsel iletişim ve dijital medyanın gücüne inanıyorum. Eğitimim süresince Photoshop ve Illustrator gibi araçlarda yetkinlik kazandım ve bu becerilerimi sosyal sorumluluk projelerinden marka kimliği tasarımlarına kadar geniş bir yelpazede kullanıyorum."
+      "icerik": "Yaratıcı fikirleri etkileyici görsellere dönüştürmek, markalar için güçlü bir kimlik oluşturmak ve insanların ilgisini çekecek sosyal medya içerikleri üretmek benim için bir tutku. \n\nHedefim, kendi yaratıcılığımı ve stratejik düşünme becerimi birleştirerek markaların dijital dünyada dikkat çekmesini sağlayan yenilikçi tasarımlar üretmektir. Uzun vadede ise kendi kreatif ajansımı kurarak, sosyal sorumluluk ve sürdürülebilirlik odaklı projelere imza atmayı hedefliyorum."
     },
     "en": {
       "baslik": "About Me",
-      "icerik": "I believe in the power of visual communication and digital media. During my education, I gained proficiency in tools like Photoshop and Illustrator, applying these skills to a wide range of projects from social responsibility to brand identity design."
+      "icerik": "Turning creative ideas into impressive visuals, building strong brand identities, and producing engaging social media content is a passion for me. \n\nMy goal is to combine my creativity and strategic thinking skills to produce innovative designs that help brands stand out in the digital world. In the long term, I aim to establish my own creative agency and undertake projects focused on social responsibility and sustainability."
     }
   },
   "beceriler": {
@@ -54,24 +54,28 @@
     "en": { "baslik": "My Skills" },
     "liste": [
       {
-        "tr": { "ad": "Grafik Tasarım", "seviye": "Photoshop, Illustrator" },
-        "en": { "ad": "Graphic Design", "seviye": "Photoshop, Illustrator" }
+        "tr": { "ad": "Adobe Photoshop", "seviye": "⭐⭐⭐⭐☆" },
+        "en": { "ad": "Adobe Photoshop", "seviye": "⭐⭐⭐⭐☆" }
       },
       {
-        "tr": { "ad": "Marka Kimliği Tasarımı", "seviye": "Logo, Kurumsal Kimlik" },
-        "en": { "ad": "Brand Identity Design", "seviye": "Logo, Corporate ID" }
+        "tr": { "ad": "Adobe Illustrator", "seviye": "⭐⭐⭐⭐☆" },
+        "en": { "ad": "Adobe Illustrator", "seviye": "⭐⭐⭐⭐☆" }
       },
       {
-        "tr": { "ad": "Sosyal Medya Yönetimi", "seviye": "İçerik Stratejisi, Yönetim" },
-        "en": { "ad": "Social Media Management", "seviye": "Content Strategy, Management" }
+        "tr": { "ad": "After Effects", "seviye": "⭐⭐⭐☆☆" },
+        "en": { "ad": "After Effects", "seviye": "⭐⭐⭐☆☆" }
       },
       {
-        "tr": { "ad": "Dijital Yayın Tasarımı", "seviye": "Mizanpaj, E-Dergi" },
-        "en": { "ad": "Digital Publication Design", "seviye": "Layout, E-Magazine" }
+        "tr": { "ad": "Premiere Pro", "seviye": "⭐⭐⭐⭐☆" },
+        "en": { "ad": "Premiere Pro", "seviye": "⭐⭐⭐⭐☆" }
       },
       {
-        "tr": { "ad": "Video İçerik Üretimi", "seviye": "Kurgu, Yaratıcı Video" },
-        "en": { "ad": "Video Content Creation", "seviye": "Editing, Creative Video" }
+        "tr": { "ad": "Sosyal Medya Yönetimi", "seviye": "⭐⭐⭐⭐☆" },
+        "en": { "ad": "Social Media Management", "seviye": "⭐⭐⭐⭐☆" }
+      },
+      {
+        "tr": { "ad": "Marka İletişimi & Stratejisi", "seviye": "⭐⭐⭐⭐☆" },
+        "en": { "ad": "Brand Communication & Strategy", "seviye": "⭐⭐⭐⭐☆" }
       }
     ]
   },
@@ -80,45 +84,69 @@
     "en": { "baslik": "My Projects" },
     "liste": [
       {
-        "tr": { "ad": "KarGo Marka Projesi", "aciklama": "Bitirme projesi olarak geliştirilen, yenilikçi bir kargo hizmeti için tam kapsamlı marka kimliği, logo ve sosyal medya stratejisi." },
-        "en": { "ad": "KarGo Brand Project", "aciklama": "A comprehensive brand identity, logo, and social media strategy for an innovative cargo service, developed as a thesis project." }
+        "tr": { "ad": "KarGo Marka Kimliği Projesi", "aciklama": "Kurgu bir kargo markası için logo, kurumsal kimlik rehberi ve sosyal medya içerikleri tasarladım. Marka dili, hem bireysel hem de kurumsal kullanıcıyı kapsayacak şekilde modern ve enerjik bir tarzda oluşturuldu." },
+        "en": { "ad": "KarGo Brand Identity Project", "aciklama": "I designed a logo, corporate identity guide, and social media content for a fictional cargo brand. The brand language was created in a modern and energetic style to cover both individual and corporate users." }
       },
       {
-        "tr": { "ad": "Görsel Manipülasyon ve Etik", "aciklama": "Photoshop kullanarak hazırlanan ve dijital dünyada görsel etiği sorgulayan sosyal sorumluluk afiş serisi." },
-        "en": { "ad": "Visual Manipulation & Ethics", "aciklama": "A social responsibility poster series created using Photoshop, questioning visual ethics in the digital world." }
+        "tr": { "ad": "Turkcell Sosyal Medya Analizi", "aciklama": "Turkcell’in sosyal medya hesaplarını inceleyip içerik stratejisi, etkileşim türleri ve marka dili açısından analiz ettim. Rapor, dijital iletişim ders projesi olarak sunuldu." },
+        "en": { "ad": "Turkcell Social Media Analysis", "aciklama": "I analyzed Turkcell's social media accounts in terms of content strategy, interaction types, and brand language. The report was presented as a digital communication course project." }
       },
       {
-        "tr": { "ad": "Dijital Hikaye Anlatımı", "aciklama": "Illustrator ile hazırlanan, bir sosyal konuya dikkat çeken hareketli (motion) bir dijital hikaye projesi." },
-        "en": { "ad": "Digital Storytelling", "aciklama": "A motion-based digital story project created with Illustrator, drawing attention to a social issue." }
+        "tr": { "ad": "Görsel Manipülasyon ve Etik Sunumu", "aciklama": "Yeni medyada görsel manipülasyonun etik sınırlarını ele alan bir sunum hazırladım. Photoshop manipülasyon örnekleriyle desteklenen bu sunum, bilinçli medya tüketiminin önemine vurgu yapıyor." },
+        "en": { "ad": "Visual Manipulation & Ethics Presentation", "aciklama": "I prepared a presentation addressing the ethical boundaries of visual manipulation in new media. Supported by Photoshop manipulation examples, this presentation emphasizes the importance of conscious media consumption." }
+      },
+      {
+        "tr": { "ad": "Candaş Şişman Biyografi Projesi", "aciklama": "Türk medya sanatçısı Candaş Şişman’ın eserlerini, yaratım sürecini ve sanat anlayışını detaylıca incelediğim bir araştırma projesi hazırladım." },
+        "en": { "ad": "Candaş Şişman Biography Project", "aciklama": "I prepared a research project detailing the works, creation process, and artistic understanding of Turkish media artist Candaş Şişman." }
+      },
+      {
+        "tr": { "ad": "Kronos: Yalanın Sonu - Dijital Roman Projesi", "aciklama": "Kendi yazdığım “Kronos: Yalanın Sonu” adlı hikayeyi dijital bir kitap haline getirdim. InDesign kullanarak sayfa tasarımı, karakter illüstrasyonları ve bölüm düzeni oluşturdum." },
+        "en": { "ad": "Kronos: The End of the Lie - Digital Novel Project", "aciklama": "I turned my own story, 'Kronos: The End of the Lie,' into a digital book. I created the page design, character illustrations, and chapter layout using InDesign." }
+      },
+      {
+        "tr": { "ad": "Değer Kırtasiye Sosyal Medya Yönetimi", "aciklama": "Staj sürecimde markanın TikTok ve Instagram hesaplarını yönettim. Günlük gönderi planları oluşturarak öğrencilere yönelik eğlenceli ve samimi içerikler ürettim." },
+        "en": { "ad": "Değer Stationery Social Media Management", "aciklama": "During my internship, I managed the brand's TikTok and Instagram accounts. I created daily post plans and produced fun and friendly content aimed at students." }
       }
     ]
   },
   "blog": {
-    "tr": { "baslik": "Blog", "devami": "Devamını Oku →" },
-    "en": { "baslik": "Blog", "devami": "Read More →" },
+    "tr": { "baslik": "Blog Yazılarım", "devami": "Devamını Oku →" },
+    "en": { "baslik": "My Blog Posts", "devami": "Read More →" },
     "liste": [
       {
         "id": 1,
         "tarih": "24 Ekim 2025",
         "tr": {
-          "baslik": "Tasarımda Minimalizmin Gücü",
-          "ozet": "Minimalist tasarım ilkelerinin marka algısını nasıl güçlendirdiğini ve kullanıcı deneyimini nasıl iyileştirdiğini inceleyen bir yazı."
+          "baslik": "Yeni Medyada Etik Sınırlar",
+          "ozet": "Dijital dünyada görsel manipülasyonun sınırlarını tartışıyorum."
         },
         "en": {
-          "baslik": "The Power of Minimalism in Design",
-          "ozet": "An article examining how minimalist design principles strengthen brand perception and improve user experience."
+          "baslik": "Ethical Boundaries in New Media",
+          "ozet": "Discussing the limits of visual manipulation in the digital world."
         }
       },
       {
         "id": 2,
-        "tarih": "15 Ekim 2025",
+        "tarih": "20 Ekim 2025",
         "tr": {
-          "baslik": "Yaratıcı Endüstrilerde Öğrenci Olmak",
-          "ozet": "Bir üniversite öğrencisi olarak yaratıcı içerik üretmenin zorlukları, fırsatları ve dijital portfolyonun önemi üzerine kişisel bir deneme."
+          "baslik": "Marka Dili Nasıl Oluşur?",
+          "ozet": "Markalar sadece logolardan ibaret değildir."
         },
         "en": {
-          "baslik": "Being a Student in Creative Industries",
-          "ozet": "A personal essay on the challenges, opportunities of creating content as a university student, and the importance of a digital portfolio."
+          "baslik": "How is Brand Language Created?",
+          "ozet": "Brands are not just about logos."
+        }
+      },
+      {
+        "id": 3,
+        "tarih": "15 Ekim 2025",
+        "tr": {
+          "baslik": "Yaratıcılığın Günlük Hayattaki Yeri",
+          "ozet": "Yaratıcılık sadece tasarımda değil, hayatın her alanında vardır."
+        },
+        "en": {
+          "baslik": "The Place of Creativity in Daily Life",
+          "ozet": "Creativity exists in all areas of life, not just in design."
         }
       }
     ]
@@ -126,22 +154,32 @@
   "blogDetaylari": {
     "1": {
       "tr": {
-        "title": "Tasarımda Minimalizmin Gücü",
-        "content": "Minimalizm, 'az daha çoktur' felsefesini benimser. Grafik tasarımda bu, gereksiz öğeleri kaldırarak mesajı en net ve en güçlü şekilde iletmek anlamına gelir. Beyaz boşluğun (negatif alan) doğru kullanımı, tipografinin gücü ve sınırlı bir renk paleti, bir tasarımın hem estetik hem de işlevsel olarak öne çıkmasını sağlar. Bu yazıda, minimalist yaklaşımın marka kimliğine nasıl katkı sağladığını ve kullanıcıların dikkatini nasıl odakladığını inceleyeceğiz."
+        "title": "Yeni Medyada Etik Sınırlar",
+        "content": "Yeni medya platformları, gerçeklik algımızı yeniden şekillendiriyor. \n\nBu yazımda, görsel manipülasyonun etik boyutlarını, haber fotoğraflarından sosyal medya filtrelerine kadar uzanan örneklerle inceliyorum. \n\nKullanıcı olarak bizlerin sorumluluk bilinci geliştirmemiz gerektiğini savunuyorum."
       },
       "en": {
-        "title": "The Power of Minimalism in Design",
-        "content": "Minimalism embraces the 'less is more' philosophy. In graphic design, this means communicating the message in the clearest and most powerful way by removing unnecessary elements. The correct use of white space (negative space), the power of typography, and a limited color palette make a design stand out both aesthetically and functionally. In this article, we will examine how a minimalist approach contributes to brand identity and focuses users' attention."
+        "title": "Ethical Boundaries in New Media",
+        "content": "New media platforms are reshaping our perception of reality. \n\nIn this article, I examine the ethical dimensions of visual manipulation with examples ranging from news photos to social media filters. \n\nI argue that we, as users, need to develop a sense of responsibility."
       }
     },
     "2": {
       "tr": {
-        "title": "Yaratıcı Endüstrilerde Öğrenci Olmak",
-        "content": "Yeni medya ve iletişim öğrencisi olarak, sürekli değişen dijital trendleri takip etmek zorundayız. Bir yandan teorik bilgi edinirken, diğer yandan bu bilgiyi Photoshop ve Illustrator gibi pratik araçlarla somut projelere dönüştürmek gerekiyor. Bir portfolyo oluşturmak, sadece bitirme projesi için değil, aynı zamanda sektörde kendimize bir yer bulmak için de kritik öneme sahip. Bu süreçte karşılaşılan zorluklar ve motivasyon kaynakları üzerine..."
+        "title": "Marka Dili Nasıl Oluşur?",
+        "content": "Marka dili, bir markanın kişiliğini yansıtan en önemli unsurlardan biridir. \n\nBu yazıda renk seçimi, tipografi, tonlama ve hedef kitleye uygun iletişim biçimleriyle nasıl güçlü bir marka kimliği yaratılabileceğini anlatıyorum."
       },
       "en": {
-        "title": "Being a Student in Creative Industries",
-        "content": "As new media and communication students, we have to follow ever-changing digital trends. While acquiring theoretical knowledge, we also need to transform this knowledge into concrete projects with practical tools like Photoshop and Illustrator. Creating a portfolio is critical not only for the thesis project but also for finding our place in the industry. About the challenges and sources of motivation encountered in this process..."
+        "title": "How is Brand Language Created?",
+        "content": "Brand language is one of the most important elements reflecting a brand's personality. \n\nIn this article, I explain how to create a strong brand identity through color selection, typography, tone of voice, and communication methods appropriate for the target audience."
+      }
+    },
+    "3": {
+      "tr": {
+        "title": "Yaratıcılığın Günlük Hayattaki Yeri",
+        "content": "Zamanla fark ettim ki, yaratıcılık sadece bir yetenek değil, bir yaşam biçimi. \n\nBu yazımda okul, iş ve kişisel yaşam arasında üretkenliği korumanın yollarını, stres altında bile ilham bulabilmenin ipuçlarını paylaşıyorum."
+      },
+      "en": {
+        "title": "The Place of Creativity in Daily Life",
+        "content": "Over time, I realized that creativity is not just a talent, but a way of life. \n\nIn this article, I share ways to maintain productivity between school, work, and personal life, and tips for finding inspiration even under stress."
       }
     }
   },
