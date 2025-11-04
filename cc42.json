@@ -1,14 +1,26 @@
 {
-  "profil": {
+  "seo": {
     "tr": {
-      "isim": "Şara Nehir",
-      "unvan": "Sistem Yöneticisi",
-      "bio": "Teknolojiye ve dijital dünyaya tutkuyla bağlı bir sistem yöneticisiyim. Bilgi işlem, ağ yönetimi, internet ve mobil teknolojiler üzerine çalışıyor; her sistemin daha güvenli, hızlı ve akıllı hale gelmesi için çözümler geliştiriyorum. Sürekli öğrenmeye ve yenilikleri projelerime yansıtmaya önem veriyorum."
+      "title": "Şara Nehir İpekçi - Yeni Medya & Grafik Tasarım Portfolyosu",
+      "description": "Yeni medya ve iletişim öğrencisi Şara Nehir İpekçi'nin profesyonel portfolyosu. Grafik tasarım, marka kimliği, dijital medya projeleri ve 'KarGo' marka projesi.",
+      "keywords": "Şara Nehir İpekçi, yeni medya ve iletişim, grafik tasarım öğrencisi, portfolyo tasarımı, görsel iletişim, dijital medya projeleri, sosyal medya yönetimi, KarGo marka projesi, Photoshop, Illustrator, Kültür Üniversitesi"
     },
     "en": {
-      "isim": "Şara Nehir",
-      "unvan": "System Administrator",
-      "bio": "I am a system administrator with a passion for technology and the digital world. I work on information processing, network management, internet and mobile technologies; I develop solutions to make every system more secure, faster and smarter. I place great importance on continuous learning and reflecting innovations in my projects."
+      "title": "Şara Nehir İpekçi - New Media & Graphic Design Portfolio",
+      "description": "Professional portfolio of Şara Nehir İpekçi, new media and communication student. Graphic design, brand identity, digital media projects, and 'KarGo' brand project.",
+      "keywords": "Şara Nehir İpekçi, new media and communication student, graphic designer portfolio, visual communication projects, branding and identity design, digital media creativity, social media management, Photoshop & Illustrator works, KarGo brand identity project, design for social responsibility"
+    }
+  },
+  "profil": {
+    "tr": {
+      "isim": "Şara Nehir İpekçi",
+      "unvan": "Yeni Medya ve İletişim Öğrencisi",
+      "bio": "Kültür Üniversitesi'nde Yeni Medya ve İletişim okuyan, grafik tasarıma tutkulu bir öğrenciyim. 'KarGo' bitirme projem başta olmak üzere, marka kimliği ve dijital hikaye anlatımı üzerine çalışıyorum."
+    },
+    "en": {
+      "isim": "Şara Nehir İpekçi",
+      "unvan": "New Media and Communication Student",
+      "bio": "I am a student at Kültür University studying New Media and Communication, passionate about graphic design. I focus on brand identity and digital storytelling, including my 'KarGo' thesis project."
     }
   },
   "nav": {
@@ -30,11 +42,11 @@
   "hakkimda": {
     "tr": {
       "baslik": "Hakkımda",
-      "icerik": "Teknoloji ve bilgi işlem alanında sürekli gelişmeyi hedefliyorum. Sistem yönetimi, ağ güvenliği ve web teknolojilerinde edindiğim deneyimleri; daha verimli, güvenli ve yenilikçi dijital çözümler üretmek için kullanıyorum. Hedefim, her geçen gün gelişen teknolojiyle birlikte kendimi de geliştirerek, kurumlara ve projelere değer katmak."
+      "icerik": "Görsel iletişim ve dijital medyanın gücüne inanıyorum. Eğitimim süresince Photoshop ve Illustrator gibi araçlarda yetkinlik kazandım ve bu becerilerimi sosyal sorumluluk projelerinden marka kimliği tasarımlarına kadar geniş bir yelpazede kullanıyorum."
     },
     "en": {
       "baslik": "About Me",
-      "icerik": "I aim for continuous development in the field of technology and information processing. I use my experience in system management, network security and web technologies to produce more efficient, secure and innovative digital solutions. My goal is to add value to organisations and projects by developing myself in line with the ever-evolving technology."
+      "icerik": "I believe in the power of visual communication and digital media. During my education, I gained proficiency in tools like Photoshop and Illustrator, applying these skills to a wide range of projects from social responsibility to brand identity design."
     }
   },
   "beceriler": {
@@ -42,28 +54,24 @@
     "en": { "baslik": "My Skills" },
     "liste": [
       {
-        "tr": { "ad": "Sistem Yönetimi", "seviye": "İleri Seviye" },
-        "en": { "ad": "System Administration", "seviye": "Advanced Level" }
+        "tr": { "ad": "Grafik Tasarım", "seviye": "Photoshop, Illustrator" },
+        "en": { "ad": "Graphic Design", "seviye": "Photoshop, Illustrator" }
       },
       {
-        "tr": { "ad": "Ağ ve Güvenlik Yönetimi", "seviye": "İleri Seviye" },
-        "en": { "ad": "Network & Security Management", "seviye": "Advanced Level" }
+        "tr": { "ad": "Marka Kimliği Tasarımı", "seviye": "Logo, Kurumsal Kimlik" },
+        "en": { "ad": "Brand Identity Design", "seviye": "Logo, Corporate ID" }
       },
       {
-        "tr": { "ad": "Web Teknolojileri (PHP, HTML, CSS)", "seviye": "Orta-İleri Seviye" },
-        "en": { "ad": "Web Technologies (PHP, HTML, CSS)", "seviye": "Intermediate-Advanced Level" }
+        "tr": { "ad": "Sosyal Medya Yönetimi", "seviye": "İçerik Stratejisi, Yönetim" },
+        "en": { "ad": "Social Media Management", "seviye": "Content Strategy, Management" }
       },
       {
-        "tr": { "ad": "Veritabanı Yönetimi (MySQL, SQLite)", "seviye": "Orta Seviye" },
-        "en": { "ad": "Database Management (MySQL, SQLite)", "seviye": "Intermediate Level" }
+        "tr": { "ad": "Dijital Yayın Tasarımı", "seviye": "Mizanpaj, E-Dergi" },
+        "en": { "ad": "Digital Publication Design", "seviye": "Layout, E-Magazine" }
       },
       {
-        "tr": { "ad": "Bilgi İşlem ve Donanım Desteği", "seviye": "İleri Seviye" },
-        "en": { "ad": "IT & Hardware Support", "seviye": "Advanced Level" }
-      },
-      {
-        "tr": { "ad": "Teknolojiler ve Mobil Sistemler", "seviye": "Orta-İleri Seviye" },
-        "en": { "ad": "Technology & Mobile Systems", "seviye": "Intermediate-Advanced Level" }
+        "tr": { "ad": "Video İçerik Üretimi", "seviye": "Kurgu, Yaratıcı Video" },
+        "en": { "ad": "Video Content Creation", "seviye": "Editing, Creative Video" }
       }
     ]
   },
@@ -72,28 +80,16 @@
     "en": { "baslik": "My Projects" },
     "liste": [
       {
-        "tr": { "ad": "Degerden.com", "aciklama": "Modern, kullanıcı dostu ve tam entegre e-ticaret platformu. Kırtasiye, kitap ve ofis ürünlerinde profesyonel tedarik çözümleri sunuyor." },
-        "en": { "ad": "Degerden.com", "aciklama": "A modern, user-friendly and fully integrated e-commerce platform. It offers professional supply solutions for stationery, books and office products." }
+        "tr": { "ad": "KarGo Marka Projesi", "aciklama": "Bitirme projesi olarak geliştirilen, yenilikçi bir kargo hizmeti için tam kapsamlı marka kimliği, logo ve sosyal medya stratejisi." },
+        "en": { "ad": "KarGo Brand Project", "aciklama": "A comprehensive brand identity, logo, and social media strategy for an innovative cargo service, developed as a thesis project." }
       },
       {
-        "tr": { "ad": "K12 Eğitim Paneli", "aciklama": "Okullar ve öğretmenler için özel hazırlanmış, öğrenci yönetimi ve sınav takip özellikleri içeren online eğitim paneli." },
-        "en": { "ad": "K12 Education Panel", "aciklama": "An online education panel specially designed for schools and teachers, featuring student management and exam tracking capabilities." }
+        "tr": { "ad": "Görsel Manipülasyon ve Etik", "aciklama": "Photoshop kullanarak hazırlanan ve dijital dünyada görsel etiği sorgulayan sosyal sorumluluk afiş serisi." },
+        "en": { "ad": "Visual Manipulation & Ethics", "aciklama": "A social responsibility poster series created using Photoshop, questioning visual ethics in the digital world." }
       },
       {
-        "tr": { "ad": "Kurumsal Tedarik Sistemi", "aciklama": "Şirketlerin periyodik kırtasiye ve ofis ihtiyaçlarını kolayca sipariş edebildiği, fiyat teklifi ve onay süreçleriyle entegre bir sistem." },
-        "en": { "ad": "Corporate Supply System", "aciklama": "A system that allows companies to easily order their periodic stationery and office supplies, integrated with quotation and approval processes." }
-      },
-      {
-        "tr": { "ad": "POS Satış Ekranı", "aciklama": "Dokunmatik kasalar için geliştirilmiş sade ve hızlı perakende satış ekranı. Mikro Jump ERP ile entegre çalışıyor." },
-        "en": { "ad": "POS Sales Screen", "aciklama": "A simple and fast retail sales screen developed for touchscreen cash registers. It works in conjunction with Mikro Jump ERP." }
-      },
-      {
-        "tr": { "ad": "Ziyaretçi Takip Sistemi", "aciklama": "Web sitelerinde kullanıcı hareketlerini kayıt altına alan ve istatistiksel analiz sağlayan akıllı izleme altyapısı." },
-        "en": { "ad": "Visitor Tracking System", "aciklama": "An intelligent tracking infrastructure that records user activity on websites and provides statistical analysis." }
-      },
-      {
-        "tr": { "ad": "Fotokopi Hizmet Yönetimi", "aciklama": "Online dosya yükleme, otomatik fiyat hesaplama ve teslim süreci takibi sunan gelişmiş fotokopi sipariş sistemi." },
-        "en": { "ad": "Photocopy Service Management", "aciklama": "An advanced photocopy ordering system offering online file uploading, automatic price calculation and delivery process tracking." }
+        "tr": { "ad": "Dijital Hikaye Anlatımı", "aciklama": "Illustrator ile hazırlanan, bir sosyal konuya dikkat çeken hareketli (motion) bir dijital hikaye projesi." },
+        "en": { "ad": "Digital Storytelling", "aciklama": "A motion-based digital story project created with Illustrator, drawing attention to a social issue." }
       }
     ]
   },
@@ -105,36 +101,24 @@
         "id": 1,
         "tarih": "24 Ekim 2025",
         "tr": {
-          "baslik": "Modern Web Geliştirmede Tasarımın Gücü",
-          "ozet": "Kullanıcı deneyimini merkeze alan modern web tasarımlarının dönüşüm oranlarına etkisini ve tasarım-işlev dengesini anlatan rehber niteliğinde bir yazı."
+          "baslik": "Tasarımda Minimalizmin Gücü",
+          "ozet": "Minimalist tasarım ilkelerinin marka algısını nasıl güçlendirdiğini ve kullanıcı deneyimini nasıl iyileştirdiğini inceleyen bir yazı."
         },
         "en": {
-          "baslik": "The Power of Design in Modern Web Development",
-          "ozet": "A guide explaining the impact of modern web designs centered on user experience on conversion rates and the balance between design and functionality."
+          "baslik": "The Power of Minimalism in Design",
+          "ozet": "An article examining how minimalist design principles strengthen brand perception and improve user experience."
         }
       },
       {
         "id": 2,
-        "tarih": "20 Ekim 2025",
-        "tr": {
-          "baslik": "E-Ticaret Altyapılarında Performans Optimizasyonu",
-          "ozet": "PHP, MySQL ve önbellekleme teknikleriyle e-ticaret sitelerinde sayfa hızını artırmanın yollarını pratik örneklerle anlatan teknik bir makale."
-        },
-        "en": {
-          "baslik": "Performance Optimization in E-Commerce Infrastructures",
-          "ozet": "A technical article explaining ways to increase page speed on e-commerce websites using PHP, MySQL and caching techniques, with practical examples."
-        }
-      },
-      {
-        "id": 3,
         "tarih": "15 Ekim 2025",
         "tr": {
-          "baslik": "Küçük İşletmeler İçin Dijital Dönüşüm Stratejileri",
-          "ozet": "KOBİ'lerin dijital dünyaya adapte olurken atması gereken adımları, başarılı örneklerle sade bir dille açıklayan stratejik bir yazı."
+          "baslik": "Yaratıcı Endüstrilerde Öğrenci Olmak",
+          "ozet": "Bir üniversite öğrencisi olarak yaratıcı içerik üretmenin zorlukları, fırsatları ve dijital portfolyonun önemi üzerine kişisel bir deneme."
         },
         "en": {
-          "baslik": "Digital Transformation Strategies for Small Businesses",
-          "ozet": "A strategic article explaining the steps SMEs need to take to adapt to the digital world, illustrated with successful examples and written in plain language."
+          "baslik": "Being a Student in Creative Industries",
+          "ozet": "A personal essay on the challenges, opportunities of creating content as a university student, and the importance of a digital portfolio."
         }
       }
     ]
@@ -142,32 +126,22 @@
   "blogDetaylari": {
     "1": {
       "tr": {
-        "title": "Modern Web Geliştirmede Tasarımın Gücü",
-        "content": "Kullanıcı deneyimi (UX), modern web sitelerinin başarısının temel taşıdır. İyi tasarlanmış bir arayüz, kullanıcıların sitenizde daha fazla zaman geçirmesini ve dönüşüm oranlarının artmasını sağlar. \n\nRenk paleti, tipografi, beyaz alan kullanımı ve navigasyon yapısı gibi unsurlar, ziyaretçilerin ilk izlenimini belirler. Özellikle mobil uyumlu ve hızlı yüklenen siteler, kullanıcı memnuniyetini artırır. \n\nAraştırmalar gösteriyor ki, kullanıcıların %94'ü kötü tasarlanmış bir web sitesini hemen terk ediyor. Responsive tasarım artık opsiyonel değil, zorunluluk. Tüm cihazlarda mükemmel görünen ve çalışan siteler, modern web'in standardıdır.\n\nRenk psikolojisi de kritik bir rol oynar. Mavi güven uyandırırken, turuncu harekete geçirir. Tipografi seçiminiz okunabilirliği doğrudan etkiler. Sans-serif fontlar dijital ortamda daha rahat okunur.\n\nBeyaz alan (whitespace) tasarımın nefes almasını sağlar. Aşırı bilgi yüklemesi kullanıcıyı bunaltır. Minimalist yaklaşım genellikle daha etkilidir.\n\nNavigasyon sezgisel olmalı. Kullanıcı istediği bilgiye maksimum 3 tıklamayla ulaşmalı. Hamburger menüler mobilde işe yarasa da desktop'ta tartışmalı.\n\nCTA (Call-to-Action) butonları stratejik konumlandırılmalı. Kontrast yaratan, dikkat çeken ama agresif olmayan tasarımlar en iyi sonucu verir.\n\nSon olarak, A/B testleri yapmadan büyük kararlar almayın. Küçük değişiklikler büyük farklar yaratabilir. Veriye dayalı tasarım kararları her zaman kazandırır."
+        "title": "Tasarımda Minimalizmin Gücü",
+        "content": "Minimalizm, 'az daha çoktur' felsefesini benimser. Grafik tasarımda bu, gereksiz öğeleri kaldırarak mesajı en net ve en güçlü şekilde iletmek anlamına gelir. Beyaz boşluğun (negatif alan) doğru kullanımı, tipografinin gücü ve sınırlı bir renk paleti, bir tasarımın hem estetik hem de işlevsel olarak öne çıkmasını sağlar. Bu yazıda, minimalist yaklaşımın marka kimliğine nasıl katkı sağladığını ve kullanıcıların dikkatini nasıl odakladığını inceleyeceğiz."
       },
       "en": {
-        "title": "The Power of Design in Modern Web Development",
-        "content": "User experience (UX) is the cornerstone of modern website success. A well-designed interface ensures users spend more time on your site and increases conversion rates.\n\nElements such as color palette, typography, white space usage and navigation structure determine visitors' first impressions. Especially mobile-friendly and fast-loading sites increase user satisfaction.\n\nResearch shows that 94% of users immediately leave a poorly designed website. Responsive design is no longer optional, it's mandatory. Sites that look and work perfectly on all devices are the standard of the modern web.\n\nColor psychology also plays a critical role. Blue inspires trust, while orange inspires action. Your typography choice directly affects readability. Sans-serif fonts are more comfortable to read in digital environments.\n\nWhite space allows the design to breathe. Information overload overwhelms the user. A minimalist approach is often more effective.\n\nNavigation should be intuitive. Users should be able to reach the information they want with a maximum of 3 clicks. Hamburger menus work on mobile, but are controversial on desktop.\n\nCTA (Call-to-Action) buttons should be strategically positioned. Contrasting, eye-catching but not aggressive designs work best.\n\nFinally, don't make big decisions without A/B testing. Small changes can make big differences. Data-driven design decisions always win."
+        "title": "The Power of Minimalism in Design",
+        "content": "Minimalism embraces the 'less is more' philosophy. In graphic design, this means communicating the message in the clearest and most powerful way by removing unnecessary elements. The correct use of white space (negative space), the power of typography, and a limited color palette make a design stand out both aesthetically and functionally. In this article, we will examine how a minimalist approach contributes to brand identity and focuses users' attention."
       }
     },
     "2": {
       "tr": {
-        "title": "E-Ticaret Altyapılarında Performans Optimizasyonu",
-        "content": "E-ticaret sitelerinde hız her şeydir. Sayfa yükleme süresinin 1 saniye artması, dönüşüm oranlarını %7 oranında düşürebilir. Amazon, her 100ms gecikmenin satışları %1 düşürdüğünü tespit etti.\n\nPHP ve MySQL tabanlı platformlarda performans optimizasyonu için veritabanı sorgularını optimize etmek kritik öneme sahiptir. N+1 sorgu problemi klasik bir tuzaktır. Eager loading kullanarak bu sorundan kaçınabilirsiniz.\n\nRedis veya Memcached gibi önbellekleme sistemleri oyunun kurallarını değiştirir. Sık erişilen verileri RAM'de tutarak veritabanı yükünü dramatik şekilde azaltır. Ürün listelerini, kategori ağaçlarını ve kullanıcı oturumlarını önbellekleyin.\n\nCDN entegrasyonu göz ardı edilmemeli. Statik dosyalarınızı (CSS, JS, resimler) kullanıcıya en yakın sunucudan servis etmek, yükleme süresini yarıya indirebilir. Cloudflare, Amazon CloudFront gibi popüler seçenekler var.\n\nLazy loading tekniği sayfa yükleme süresini ciddi şekilde iyileştirir. Kullanıcı scroll etmeden görmediği resimleri yüklemeyin. Intersection Observer API modern tarayıcılarda mükemmel çalışıyor.\n\nImage optimization da kritik. WebP formatı %30 daha küçük dosya boyutu sağlar. Responsive images ile her cihaz için uygun boyutu gönderin. Squoosh veya TinyPNG gibi araçlar otomatik optimizasyon yapabilir.\n\nMinification ve GZIP sıkıştırma standart olmalı. CSS ve JavaScript dosyalarınızı minimize edin. Sunucu tarafında GZIP compression aktif olmalı. Brotli daha da iyi ama tarayıcı desteği kontrol edin.\n\nDatabase indexing unutulmamalı. WHERE, JOIN ve ORDER BY kullandığınız kolonlara index ekleyin. Ama aşırıya kaçmayın, her index INSERT/UPDATE işlemlerini yavaşlatır.\n\nProfiling araçları kullanın. XDebug, Blackfire veya New Relic gibi araçlar darboğazları tespit etmenize yardımcı olur. Veri olmadan optimizasyon yapmayın."
+        "title": "Yaratıcı Endüstrilerde Öğrenci Olmak",
+        "content": "Yeni medya ve iletişim öğrencisi olarak, sürekli değişen dijital trendleri takip etmek zorundayız. Bir yandan teorik bilgi edinirken, diğer yandan bu bilgiyi Photoshop ve Illustrator gibi pratik araçlarla somut projelere dönüştürmek gerekiyor. Bir portfolyo oluşturmak, sadece bitirme projesi için değil, aynı zamanda sektörde kendimize bir yer bulmak için de kritik öneme sahip. Bu süreçte karşılaşılan zorluklar ve motivasyon kaynakları üzerine..."
       },
       "en": {
-        "title": "Performance Optimization in E-Commerce Infrastructures",
-        "content": "Speed is everything on e-commerce sites. A 1 second increase in page load time can reduce conversion rates by 7%. Amazon found that every 100ms delay reduces sales by 1%.\n\nFor performance optimization on PHP and MySQL based platforms, optimizing database queries is critical. The N+1 query problem is a classic trap. You can avoid this problem by using eager loading.\n\nCaching systems such as Redis or Memcached are game changers. It dramatically reduces database load by keeping frequently accessed data in RAM. Cache product lists, category trees and user sessions.\n\nCDN integration should not be ignored. Serving your static files (CSS, JS, images) from the server closest to the user can cut loading time in half. There are popular options like Cloudflare, Amazon CloudFront.\n\nLazy loading technique seriously improves page load time. Don't load images that users don't see without scrolling. Intersection Observer API works perfectly in modern browsers.\n\nImage optimization is also critical. WebP format provides 30% smaller file size. Send the right size for each device with responsive images. Tools like Squoosh or TinyPNG can do automatic optimization.\n\nMinification and GZIP compression should be standard. Minimize your CSS and JavaScript files. GZIP compression should be active on the server side. Brotli is even better but check browser support.\n\nDatabase indexing should not be forgotten. Add indexes to columns where you use WHERE, JOIN and ORDER BY. But don't overdo it, each index slows down INSERT/UPDATE operations.\n\nUse profiling tools. Tools like XDebug, Blackfire or New Relic help you identify bottlenecks. Don't optimize without data."
-      }
-    },
-    "3": {
-      "tr": {
-        "title": "Küçük İşletmeler İçin Dijital Dönüşüm Stratejileri",
-        "content": "Dijital dönüşüm artık lüks değil, zorunluluk. Pandemi sonrası dünyada online varlığı olmayan işletmeler ciddi dezavantajla karşılaşıyor. Peki nereden başlamalı?\n\nİlk adım basit ama profesyonel bir web sitesi. WordPress gibi CMS'ler teknik bilgi gerektirmeden yönetilebilir. Ancak önemli olan içerik. Ürünlerinizi, hizmetlerinizi net bir şekilde anlatın. İletişim bilgileriniz kolayca erişilebilir olsun.\n\nGoogle My Business kaydı ücretsiz ve etkili. Yerel aramalarda öne çıkmanızı sağlar. Müşteri yorumlarını cevaplamak, güven oluşturur. Fotoğraflar ve güncellenen çalışma saatleri, keşfedilebilirliği artırır.\n\nSosyal medya stratejisi hedef kitlenize göre şekillenmeli. B2B iseniz LinkedIn, B2C iseniz Instagram/Facebook öncelikli. Tutarlı paylaşım önemli ama kalite her zaman kantiteye üstün. Haftalık 3-4 kaliteli içerik, günlük 10 vasatdan iyidir.\n\nE-posta pazarlama ROI'si en yüksek dijital kanallardan. Müşteri listenizi büyütün. Aylık bülten, özel kampanyalar, doğum günü indirimleri... Kişiselleştirme açılma oranını 2 katına çıkarabilir.\n\nE-ticaret altyapısı kurmak artık çok kolay. Shopify, WooCommerce, Ticimax gibi hazır platformlar var. Kendi sitenizden satış yapamamak ciddi gelir kaybı. Ödeme altyapısı (iyzico, PayTR) entegrasyonu da basitleşti.\n\nCRM sistemi müşteri ilişkilerini güçlendirir. HubSpot, Salesforce gibi kurumsal çözümler pahalı olabilir. Ancak Zoho, Pipedrive gibi uygun fiyatlı alternatifler mevcut. Müşteri verilerini Excel'de tutmak 2025'te kabul edilemez.\n\nDijital reklamcılık bütçeniz varsa değerlendirin. Google Ads yerel aramalarda, Facebook/Instagram Ads hedefli kitlelerde etkili. Küçük bütçelerle başlayıp, veriye göre ölçeklendirin. ROI takibi yapmadan reklam harcamayın.\n\nSEO uzun vadeli bir yatırım. Blog yazarak sektörünüzde otorite olabilirsiniz. Anahtar kelime araştırması, teknik SEO, backlink stratejisi... Profesyonel destek almanız faydalı olabilir.\n\nSon olarak, dijital dönüşüm bir maratondur, sprint değil. Adım adım ilerleyin. Analiz edin, öğrenin, optimize edin. Rakipleriniz zaten yolda."
-      },
-      "en": {
-        "title": "Digital Transformation Strategies for Small Businesses",
-        "content": "Digital transformation is no longer a luxury, but a necessity. In the post-pandemic world, businesses without an online presence face serious disadvantages. So where to start?\n\nThe first step is a simple but professional website. CMS like WordPress can be managed without requiring technical knowledge. But what matters is content. Explain your products and services clearly. Your contact information should be easily accessible.\n\nGoogle My Business registration is free and effective. It allows you to stand out in local searches. Responding to customer reviews builds trust. Photos and updated business hours increase discoverability.\n\nYour social media strategy should be shaped according to your target audience. If you are B2B, LinkedIn is a priority, if you are B2C, Instagram/Facebook. Consistent sharing is important, but quality always trumps quantity. 3-4 quality content per week is better than 10 daily mediocre.\n\nEmail marketing is one of the digital channels with the highest ROI. Grow your customer list. Monthly newsletter, special campaigns, birthday discounts... Personalization can double the open rate.\n\nSetting up an e-commerce infrastructure is now very easy. There are ready-made platforms such as Shopify, WooCommerce, Ticimax. Not being able to sell from your own site is a serious loss of revenue. Payment infrastructure (iyzico, PayTR) integration has also been simplified.\n\nCRM system strengthens customer relationships. Corporate solutions such as HubSpot and Salesforce can be expensive. However, there are affordable alternatives like Zoho, Pipedrive. Keeping customer data in Excel is unacceptable in 2025.\n\nConsider digital advertising if you have a budget. Google Ads in local searches, Facebook/Instagram Ads effective in targeted audiences. Start with small budgets and scale according to data. Do not spend advertising without ROI tracking.\n\nSEO is a long-term investment. By blogging, you can become an authority in your industry. Keyword research, technical SEO, backlink strategy... Getting professional support can be beneficial.\n\nFinally, digital transformation is a marathon, not a sprint. Move forward step by step. Analyze, learn, optimize. Your competitors are already on the road."
+        "title": "Being a Student in Creative Industries",
+        "content": "As new media and communication students, we have to follow ever-changing digital trends. While acquiring theoretical knowledge, we also need to transform this knowledge into concrete projects with practical tools like Photoshop and Illustrator. Creating a portfolio is critical not only for the thesis project but also for finding our place in the industry. About the challenges and sources of motivation encountered in this process..."
       }
     }
   },
@@ -183,11 +157,10 @@
   },
   "footer": {
     "tr": {
-      "copyright": "&copy; 2025 UslanmazDev. Tüm hakları saklıdır."
+      "copyright": "&copy; 2025 Şara Nehir İpekçi. Tüm hakları saklıdır."
     },
     "en": {
-      "copyright": "&copy; 2025 UslanmazDev. All rights reserved."
+      "copyright": "&copy; 2025 Şara Nehir İpekçi. All rights reserved."
     }
   }
-
 }

@@ -50,6 +50,22 @@ function applyLanguage(lang) {
         return;
     }
 
+    // === YENİ SEO GÜNCELLEME KODLARI ===
+    // <head> etiketlerini cc42.json'dan gelen veriye göre güncelle
+    if (siteVerisi.seo && siteVerisi.seo[lang]) {
+        document.getElementById('seo-title').textContent = siteVerisi.seo[lang].title;
+        document.getElementById('seo-description').setAttribute('content', siteVerisi.seo[lang].description);
+        document.getElementById('seo-keywords').setAttribute('content', siteVerisi.seo[lang].keywords);
+        
+        // Sosyal medya etiketlerini de güncelle
+        document.getElementById('og-title').setAttribute('content', siteVerisi.seo[lang].title);
+        document.getElementById('og-description').setAttribute('content', siteVerisi.seo[lang].description);
+        document.getElementById('twitter-title').setAttribute('content', siteVerisi.seo[lang].title);
+        document.getElementById('twitter-description').setAttribute('content', siteVerisi.seo[lang].description);
+    }
+    // === YENİ KOD BİTİŞİ ===
+
+
     // --- Basit Metin Alanlarını Doldur ---
     document.getElementById('profil-isim').textContent = siteVerisi.profil[lang].isim;
     document.getElementById('profil-unvan').textContent = siteVerisi.profil[lang].unvan;
@@ -195,7 +211,6 @@ function renderBlog(lang) {
         draw() {
             ctx.beginPath();
             ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
-            // === RENK GÜNCELLENDİ (Pembe) ===
             ctx.fillStyle = 'rgba(236,72,153,0.4)'; 
             ctx.fill();
         }
@@ -216,7 +231,6 @@ function renderBlog(lang) {
                 const dist = Math.sqrt(dx * dx + dy * dy);
                 if (dist < 100) {
                     ctx.beginPath();
-                    // === RENK GÜNCELLENDİ (Pembe) ===
                     ctx.strokeStyle = `rgba(236,72,153,${0.2 * (1 - dist / 100)})`;
                     ctx.lineWidth = 1;
                     ctx.moveTo(p1.x, p1.y);
