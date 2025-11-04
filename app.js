@@ -94,7 +94,6 @@ function applyLanguage(lang) {
         retypeText();
     }
     
-    // --- DÜZELTME ---
     // Scroll animasyon gözlemcisini yeniden çalıştır
     initScrollAnimations();
     // 3D tilt efektini yeni kartlara uygula
@@ -196,7 +195,8 @@ function renderBlog(lang) {
         draw() {
             ctx.beginPath();
             ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
-            ctx.fillStyle = 'rgba(139,92,246,0.4)';
+            // === RENK GÜNCELLENDİ (Pembe) ===
+            ctx.fillStyle = 'rgba(236,72,153,0.4)'; 
             ctx.fill();
         }
     }
@@ -216,7 +216,8 @@ function renderBlog(lang) {
                 const dist = Math.sqrt(dx * dx + dy * dy);
                 if (dist < 100) {
                     ctx.beginPath();
-                    ctx.strokeStyle = `rgba(139,92,246,${0.2 * (1 - dist / 100)})`;
+                    // === RENK GÜNCELLENDİ (Pembe) ===
+                    ctx.strokeStyle = `rgba(236,72,153,${0.2 * (1 - dist / 100)})`;
                     ctx.lineWidth = 1;
                     ctx.moveTo(p1.x, p1.y);
                     ctx.lineTo(p2.x, p2.y);
@@ -244,11 +245,8 @@ function renderBlog(lang) {
 })();
 
 // Scroll Animations
-// --- DÜZELTME ---
-// Gözlemciyi (observer) global bir değişkende tut
 let scrollObserver;
 function initScrollAnimations() {
-    // Eğer daha önce bir gözlemci oluşturulduysa, önce bağlantısını kes
     if (scrollObserver) {
         scrollObserver.disconnect();
     }
@@ -258,12 +256,11 @@ function initScrollAnimations() {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.classList.add('active');
-                scrollObserver.unobserve(entry.target); // Animasyon tetiklendikten sonra izlemeyi bırak
+                scrollObserver.unobserve(entry.target);
             }
         });
     }, observerOptions);
 
-    // Hem statik hem de dinamik olarak eklenen TÜM ilgili elemanları seç
     document.querySelectorAll('.scroll-reveal,.scroll-reveal-left,.scroll-reveal-right').forEach(el => {
         scrollObserver.observe(el);
     });
@@ -299,7 +296,7 @@ function initScrollAnimations() {
     });
 })();
 
-// --- GÜNCELLENMİŞ Blog Modal Logic ---
+// Blog Modal Logic
 const blogModal = document.getElementById('blogModal');
 const modalClose = document.getElementById('modalClose');
 const modalTitle = document.getElementById('modalTitle');
@@ -319,8 +316,6 @@ function hideModal() {
     document.body.style.overflow = '';
 }
 
-// --- DÜZELTME ---
-// Hatalı klonlama kodu kaldırıldı.
 function initBlogModalListeners() {
     document.querySelectorAll('.blog-read-more').forEach(btn => {
         btn.addEventListener('click', e => {
@@ -351,9 +346,7 @@ document.addEventListener('keydown', e => {
     }
 });
 
-// --- GÜNCELLENMİŞ 3D Tilt Effect ---
-// --- DÜZELTME ---
-// Hatalı klonlama kodu kaldırıldı.
+// 3D Tilt Effect
 function init3DTiltEffect() {
     document.querySelectorAll('.skill-card, .project-card, .blog-card').forEach(card => {
         card.addEventListener('mousemove', e => {
