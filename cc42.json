@@ -1,12 +1,12 @@
 {
   "profil": {
     "tr": {
-      "isim": "Cihan USLU",
+      "isim": "Şara Nehir",
       "unvan": "Sistem Yöneticisi",
       "bio": "Teknolojiye ve dijital dünyaya tutkuyla bağlı bir sistem yöneticisiyim. Bilgi işlem, ağ yönetimi, internet ve mobil teknolojiler üzerine çalışıyor; her sistemin daha güvenli, hızlı ve akıllı hale gelmesi için çözümler geliştiriyorum. Sürekli öğrenmeye ve yenilikleri projelerime yansıtmaya önem veriyorum."
     },
     "en": {
-      "isim": "Cihan USLU",
+      "isim": "Şara Nehir",
       "unvan": "System Administrator",
       "bio": "I am a system administrator with a passion for technology and the digital world. I work on information processing, network management, internet and mobile technologies; I develop solutions to make every system more secure, faster and smarter. I place great importance on continuous learning and reflecting innovations in my projects."
     }
@@ -183,10 +183,11 @@
   },
   "footer": {
     "tr": {
-      "copyright": "&copy; 2025 Cihan USLU. Tüm hakları saklıdır."
+      "copyright": "&copy; 2025 UslanmazDev. Tüm hakları saklıdır."
     },
     "en": {
-      "copyright": "&copy; 2025 Cihan USLU. All rights reserved."
+      "copyright": "&copy; 2025 UslanmazDev. All rights reserved."
     }
   }
+
 }
