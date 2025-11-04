@@ -5,4 +5,5 @@ Allow: /
 
 # Arama motorlarına sitemap.xml dosyamızın yerini gösteriyoruz.
 # (Not: Kendi alan adınızı kullandığınızdan emin olun)
-Sitemap: https://www.uslanmazdev.xyz/sitemap.xml
+
+Sitemap: https://www.saranehir.xyz/sitemap.xml
